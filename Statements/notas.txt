@@ -1,0 +1,43 @@
+CURSO DE SQL NOTAS
+
+un lenguaje de consulta estructurada, no es de programacion 
+
+SQL es un estandar desde el año 1986
+
+Una base de datos es un lugar donde almacenamos los datos, relacionales o no 
+
+El usuario hace una peticion y la aplicacion accede a la Database 
+
+las bases de datos tienen muchas tablas con cada informacion, y estas se relacionan entre si 
+
+Bases de datos relacionales: Tenemos diferentes lugares donde estan guardados los datos 
+las tablas se relacionan dependen de la otra
+
+Bases de datos no relacionales: Son independientes 
+ 
+Usamos una u otras dependiendo de nuestras necesidades
+
+Bases de datos mas populares: MySQL y PostgreSQL
+
+ENTIDAD: una tabla o Puede ser una agrupacion de tablas, es una UNIDAD
+
+Con una tabla podemos acceder a otras tablas para no cometer errores 
+
+concepto relacional: una relacion 1:1 solo un usuario puede tener un DNI 
+o 1:n por ejemplo un programador sabe n lenguajes de progamacion 
+
+sentencia SELECT seleccion de datos, para consultar datos de una tabla 
+SELECT * FROM users consulta todos los datos de la tabla 
+
+DISTINCT sentencia trae los resultados distintos que no tengan esa coincidencia si hay dos edades iguales, solo trae una 
+
+SELECT DISTINCT * FROM users
+
+WHERE palabra reservada, OJO MUY IMPORTANTE: limitamos el criterio de los datos que queremos 
+
+sentencia ORDER BY 
+
+
+
+
+
